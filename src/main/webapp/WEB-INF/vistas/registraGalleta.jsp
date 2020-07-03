@@ -33,7 +33,7 @@
 			
 			<div class="form-group">
 				<label class="control-label" for="id_stock">Stock</label>
-				<input class="form-control" type="text" id="id_stock" name="stock" placeholder="Ingrese el dni" maxlength="8">    
+				<input class="form-control" type="text" id="id_stock" name="stock" placeholder="Ingrese el stock" maxlength="8">    
 			</div>
 			
 			<div class="form-group">
