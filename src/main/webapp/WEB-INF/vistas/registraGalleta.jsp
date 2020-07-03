@@ -38,7 +38,7 @@
 			
 			<div class="form-group">
 				<label class="control-label" for="id_fecha">Fecha de Vencimiento</label>
-				<input class="form-control" type="date" id="id_fecha" name="fechaVencimiento" placeholder="La fecha" maxlength="100">    
+				<input class="form-control" type="date" id="id_fecha" name="fechaVencimiento" placeholder="La fecha de vencimiento" maxlength="100">    
 			</div>
 			
 			
